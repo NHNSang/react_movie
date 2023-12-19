@@ -1,0 +1,24 @@
+.cum_rap .ant-tabs-tab {
+  padding: 8px 10px !important;
+}
+
+.cum_rap .ant-tabs-nav {
+  width: 300px;
+}
+
+.cum_rap .ant-tabs-tab-btn {
+  width: 100%;
+}
+
+.cum_rap .ant-tabs-nav-operations {
+  display: none !important;
+}
+
+.ant-tabs-ink-bar {
+  background: green !important;
+}
+
+.cum_rap .ant-tabs-content {
+  height: 100%;
+  overflow: scroll;
+}
